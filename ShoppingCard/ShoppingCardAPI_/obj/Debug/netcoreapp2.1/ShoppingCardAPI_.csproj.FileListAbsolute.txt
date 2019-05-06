@@ -1,0 +1,14 @@
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\bin\Debug\netcoreapp2.1\ShoppingCardAPI_.deps.json
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\bin\Debug\netcoreapp2.1\ShoppingCardAPI_.runtimeconfig.json
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\bin\Debug\netcoreapp2.1\ShoppingCardAPI_.runtimeconfig.dev.json
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\bin\Debug\netcoreapp2.1\ShoppingCardAPI_.dll
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\bin\Debug\netcoreapp2.1\ShoppingCardAPI_.pdb
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.csproj.CoreCompileInputs.cache
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.RazorAssemblyInfo.cache
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.RazorAssemblyInfo.cs
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.AssemblyInfoInputs.cache
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.AssemblyInfo.cs
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.RazorTargetAssemblyInfo.cache
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.dll
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.pdb
+C:\Users\Betul\Desktop\ShoppingCard\ShoppingCardAPI_\obj\Debug\netcoreapp2.1\ShoppingCardAPI_.csprojAssemblyReference.cache
